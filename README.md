@@ -1,1 +1,1 @@
-This is a initial Project for youtube plylist ama=nge
+This is a initial Project for youtube playlist manager
